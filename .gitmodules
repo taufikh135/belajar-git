@@ -1,3 +1,4 @@
 [submodule "module/scripts"]
 	path = module/scripts
 	url = git@github.com:taufikh246/modulejs.git
+	branch = release
